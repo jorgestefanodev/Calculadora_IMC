@@ -3,7 +3,7 @@
 ##
 
 Para usar o app:
-- Instalar as dependênciasd com pip install -r requirements.txt
+- Instalar dependência com pip install customtkinter e pip install Pillow
 - Executar o arquivo app.py
 
 obs.: A altura da pessoa, inserir em metros. Por exemplo: 1.71
